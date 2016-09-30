@@ -1,6 +1,6 @@
 {
   "name": "level-shared-batch",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": "juliangruber/level-shared-batch",
   "description": "Share batches and commit collectively",
